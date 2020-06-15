@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/QuakeReport.iml" filepath="$PROJECT_DIR$/QuakeReport.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/QuakeReport.iml" filepath="$PROJECT_DIR$/.idea/modules/QuakeReport.iml" group="QuakeReport" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="QuakeReport/app" />
     </modules>
   </component>
 </project>
